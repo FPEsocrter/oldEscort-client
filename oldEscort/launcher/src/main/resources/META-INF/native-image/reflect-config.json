@@ -1,0 +1,10 @@
+[
+  {
+    "name":"org.hibernate.binder.internal.CommentBinder",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"cn.escort.web.business.font.domain.FontFamilyInfo",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "name":  "cn.escort.web.business.environment.domain.dto.FingerprintDto"
+  },
+  {
+    "name": "cn.escort.web.business.fingerprint.domain.SimpleFingerprint"
+  },
+  {
+    "name": "cn.escort.web.business.environment.domain.dto.fingerprint.FontDto"
+  },
+  {
+    "name": "cn.escort.web.business.environment.domain.dto.fingerprint.LanguageDto"
+  },
+  {
+    "name": "cn.escort.web.business.environment.domain.dto.fingerprint.LocationDto"
+  },
+  {
+    "name": "cn.escort.web.business.environment.domain.dto.fingerprint.ResolutionDto"
+  },
+  {
+    "name": "cn.escort.web.business.environment.domain.dto.fingerprint.WebGLDeviceDto"
+  },
+  {
+    "name": "cn.escort.web.business.environment.domain.dto.fingerprint.MediaEquipmentDto"
+  },
+  {
+    "name": "cn.escort.web.business.environment.domain.dto.fingerprint.ResourceInfoDto"
+  },
+  {
+    "name": "cn.escort.web.business.environment.domain.dto.fingerprint.OpenPortDto"
+  },
+  {
+    "name": "cn.escort.web.business.environment.domain.dto.fingerprint.TimeZoneDto"
+  },
+  {
+    "name": "java.lang.Number"
+  },
+  {
+    "name": "java.lang.Float"
+  }
+]
